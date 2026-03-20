@@ -1,0 +1,22 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vijaybamane1990/devops-pipelines/issues"
+  },
+  "homepage": "https://github.com/vijaybamane1990/devops-pipelines#readme",
+  "description": ""
+}
