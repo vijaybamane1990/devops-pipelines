@@ -18,9 +18,9 @@ jobs:
           node-version: v16
       
       - name: Install dependencies 
-        run: npm Install
+        run: npm install
         
-      - name: Run tests 
+      - name: run tests 
         run: npm test   
 
 
